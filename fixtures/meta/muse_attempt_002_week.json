@@ -1,0 +1,195 @@
+{
+  "label": "Promoted live Muse Spark Attempt 002 response. Sanitized. Not a live call.",
+  "source": "muse_spark_attempt_002",
+  "summary": "4-day strength plan using enjoyed lifts with no overhead work.",
+  "sessions": [
+    {
+      "workout_name": "Lower Strength Builder",
+      "session_type": "lower_strength",
+      "duration_minutes": 50,
+      "exercises": [
+        {
+          "exercise_id": "barbell_squat",
+          "sets": 4,
+          "target_reps": 8,
+          "rest_seconds": 120,
+          "suggested_load_kg": null,
+          "notes": "Keep chest tall and brace core."
+        },
+        {
+          "exercise_id": "romanian_deadlift",
+          "sets": 3,
+          "target_reps": 10,
+          "rest_seconds": 120,
+          "suggested_load_kg": null,
+          "notes": "Hinge hips back with flat back."
+        },
+        {
+          "exercise_id": "leg_curl",
+          "sets": 3,
+          "target_reps": 12,
+          "rest_seconds": 90,
+          "suggested_load_kg": null,
+          "notes": "Control the lowering phase."
+        },
+        {
+          "exercise_id": "glute_bridge",
+          "sets": 3,
+          "target_reps": 12,
+          "rest_seconds": 60,
+          "suggested_load_kg": null,
+          "notes": "Squeeze glutes at the top."
+        },
+        {
+          "exercise_id": "plank",
+          "sets": 3,
+          "target_reps": 1,
+          "rest_seconds": 60,
+          "suggested_load_kg": null,
+          "notes": "Hold 45 seconds per set."
+        }
+      ]
+    },
+    {
+      "workout_name": "Upper Strength Builder",
+      "session_type": "upper_strength",
+      "duration_minutes": 50,
+      "exercises": [
+        {
+          "exercise_id": "bench_press",
+          "sets": 4,
+          "target_reps": 8,
+          "rest_seconds": 120,
+          "suggested_load_kg": null,
+          "notes": "Touch chest and press evenly."
+        },
+        {
+          "exercise_id": "dumbbell_row",
+          "sets": 3,
+          "target_reps": 10,
+          "rest_seconds": 90,
+          "suggested_load_kg": null,
+          "notes": "Pull elbow back and squeeze."
+        },
+        {
+          "exercise_id": "push_up",
+          "sets": 3,
+          "target_reps": 12,
+          "rest_seconds": 90,
+          "suggested_load_kg": null,
+          "notes": "Keep body in straight line."
+        },
+        {
+          "exercise_id": "barbell_row",
+          "sets": 3,
+          "target_reps": 10,
+          "rest_seconds": 90,
+          "suggested_load_kg": null,
+          "notes": "Hinge flat back and row."
+        },
+        {
+          "exercise_id": "dead_bug",
+          "sets": 3,
+          "target_reps": 10,
+          "rest_seconds": 60,
+          "suggested_load_kg": null,
+          "notes": "Press low back into floor."
+        }
+      ]
+    },
+    {
+      "workout_name": "Lower Hypertrophy Focus",
+      "session_type": "lower_hypertrophy",
+      "duration_minutes": 50,
+      "exercises": [
+        {
+          "exercise_id": "leg_press",
+          "sets": 4,
+          "target_reps": 10,
+          "rest_seconds": 120,
+          "suggested_load_kg": null,
+          "notes": "Keep feet flat and knees tracked."
+        },
+        {
+          "exercise_id": "walking_lunge",
+          "sets": 3,
+          "target_reps": 12,
+          "rest_seconds": 90,
+          "suggested_load_kg": null,
+          "notes": "Take long steps and stay tall."
+        },
+        {
+          "exercise_id": "goblet_squat",
+          "sets": 3,
+          "target_reps": 12,
+          "rest_seconds": 90,
+          "suggested_load_kg": null,
+          "notes": "Hold weight at chest and squat deep."
+        },
+        {
+          "exercise_id": "leg_extension",
+          "sets": 3,
+          "target_reps": 12,
+          "rest_seconds": 60,
+          "suggested_load_kg": null,
+          "notes": "Pause briefly at the top."
+        },
+        {
+          "exercise_id": "calf_raise",
+          "sets": 3,
+          "target_reps": 15,
+          "rest_seconds": 60,
+          "suggested_load_kg": null,
+          "notes": "Pause at top of each rep."
+        }
+      ]
+    },
+    {
+      "workout_name": "Full Body Maintenance",
+      "session_type": "full_body",
+      "duration_minutes": 50,
+      "exercises": [
+        {
+          "exercise_id": "bodyweight_squat",
+          "sets": 3,
+          "target_reps": 15,
+          "rest_seconds": 60,
+          "suggested_load_kg": null,
+          "notes": "Move with control and depth."
+        },
+        {
+          "exercise_id": "dumbbell_bench_press",
+          "sets": 3,
+          "target_reps": 10,
+          "rest_seconds": 90,
+          "suggested_load_kg": null,
+          "notes": "Lower dumbbells to chest level."
+        },
+        {
+          "exercise_id": "seated_cable_row",
+          "sets": 3,
+          "target_reps": 10,
+          "rest_seconds": 90,
+          "suggested_load_kg": null,
+          "notes": "Squeeze shoulder blades together."
+        },
+        {
+          "exercise_id": "glute_bridge",
+          "sets": 3,
+          "target_reps": 12,
+          "rest_seconds": 60,
+          "suggested_load_kg": null,
+          "notes": "Squeeze glutes at the top."
+        },
+        {
+          "exercise_id": "plank",
+          "sets": 3,
+          "target_reps": 1,
+          "rest_seconds": 60,
+          "suggested_load_kg": null,
+          "notes": "Hold 45 seconds per set."
+        }
+      ]
+    }
+  ]
+}

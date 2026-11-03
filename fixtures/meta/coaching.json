@@ -1,0 +1,26 @@
+{
+  "label": "FIXTURE — not a live Muse Spark response",
+  "source": "fixture",
+  "source_label": "Saved Muse Spark fixture — not a live call",
+  "summary": "Fixture coaching text used only when AI_PROVIDER=fixture.",
+  "observations": [
+    {
+      "metric": "torso_inclination",
+      "statement": "Fixture observation only.",
+      "evidence_seconds": [12.0],
+      "magnitude": 8.0
+    }
+  ],
+  "evidence_references": [12.0],
+  "confidence_notes": ["This payload is a labeled fixture."],
+  "uncertainties": ["Not computed from a live recording."],
+  "suggested_action": "REDUCE_REPS",
+  "reason": "Fixture recommendation for offline tests.",
+  "requires_confirmation": true,
+  "suggested_reps": 6,
+  "suggested_rest_seconds": 150,
+  "suggested_load_kg": 40,
+  "current_reps": 8,
+  "current_rest_seconds": 120,
+  "current_load_kg": 40
+}

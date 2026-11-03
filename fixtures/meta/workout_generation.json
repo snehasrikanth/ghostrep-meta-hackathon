@@ -1,0 +1,24 @@
+{
+  "label": "FIXTURE — not a live Muse Spark response",
+  "workout_name": "Fixture Leg Day A",
+  "duration_minutes": 50,
+  "notes": "Saved fixture for offline provider tests. Never present this as a live Meta call.",
+  "exercises": [
+    {
+      "exercise_id": "barbell_squat",
+      "sets": 3,
+      "target_reps": 8,
+      "rest_seconds": 120,
+      "suggested_load_kg": 40,
+      "notes": "Select a manageable load."
+    },
+    {
+      "exercise_id": "romanian_deadlift",
+      "sets": 3,
+      "target_reps": 10,
+      "rest_seconds": 90,
+      "suggested_load_kg": null,
+      "notes": "Use a controlled movement."
+    }
+  ]
+}
